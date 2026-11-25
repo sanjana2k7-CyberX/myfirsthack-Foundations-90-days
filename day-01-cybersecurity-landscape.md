@@ -1,9 +1,5 @@
 # Day 01-The Cybersecurity Landscape
 
-**Programme:** MyFirstHack — 90 Days  
-**Topic:** Understanding the Digital World  
-**Status:** Completed
-
 ## What I learned
 
 ### 1. Cybersecurity Fundamentals
