@@ -1,4 +1,4 @@
-# Day 01 — The Cybersecurity Landscape
+# Day 01-The Cybersecurity Landscape
 
 **Programme:** MyFirstHack — 90 Days  
 **Topic:** Understanding the Digital World  
